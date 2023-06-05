@@ -1,0 +1,20 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Meditation",
+      "Artist": "Fettle",
+      "artWork": "",
+      "url": "",
+      "duration": 330
+    },
+    {
+      "id": 2,
+      "title": "Meditation",
+      "Artist": "Fettle",
+      "artWork": "",
+      "url": "",
+      "duration": 330
+    }
+  ]
+}
